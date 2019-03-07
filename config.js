@@ -21,7 +21,7 @@ var config = {
     api: {
 	github: {
 	    baseUrl: 'https://api.github.com',
-	    token: '72192bbd2ecd4c3149a3c09a7ca0b6278d322bb7'
+	    token: ''
     },
     json: {
         url: 'http://localhost:5001',
